@@ -1,0 +1,24 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acejjin77.git"
+  },
+  "author": "Parkjingod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/acejjin77/issues"
+  },
+  "homepage": "https://github.com/github.com/acejjin77#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
